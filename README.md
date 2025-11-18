@@ -1,2 +1,1 @@
-# NaimuriCodingChallenge
-Word grid challenge
+
